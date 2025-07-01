@@ -119,6 +119,19 @@
 </div>
 
 <script>
+const wachtwoord = "mijngeheim";  // zet hier je eigen wachtwoord
+
+function checkWachtwoord() {
+  const invoer = prompt("Voer het wachtwoord in om de app te openen:");
+  if (invoer !== wachtwoord) {
+    alert("Onjuist wachtwoord! Toegang geweigerd.");
+    // Blokkeer door pagina te verbergen of te redirecten
+    document.body.innerHTML = "<h2>Toegang geweigerd</h2>";
+    throw new Error("Toegang geweigerd");
+  }
+}
+
+checkWachtwoord();
 "use strict";
 
 const DB_NAME = "VogelWaarnemingenDB";
