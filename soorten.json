@@ -1,0 +1,2802 @@
+[
+  {
+    "naam": "Rotgans",
+    "WetSchap": "Branta bernicla",
+    "status": "wintergast"
+  },
+  {
+    "naam": "Roodhalsgans",
+    "WetSchap": "Branta ruficollis",
+    "status": "wintergast"
+  },
+  {
+    "naam": "Grote Canadese gans",
+    "WetSchap": "Branta canadensis",
+    "status": "exoot, broedvogel"
+  },
+  {
+    "naam": "Brandgans",
+    "WetSchap": "Branta leucopsis",
+    "status": "broedvogel, wintergast"
+  },
+  {
+    "naam": "Kleine Canadese gans",
+    "WetSchap": "Branta hutchinsii",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Indische gans",
+    "WetSchap": "Anser indicus",
+    "status": "exoot, schaarse broedvogel"
+  },
+  {
+    "naam": "Ross' gans",
+    "WetSchap": "Anser rossii",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Sneeuwgans",
+    "WetSchap": "Anser caerulescens",
+    "status": "schaarse wintergast"
+  },
+  {
+    "naam": "Grauwe gans",
+    "WetSchap": "Anser anser",
+    "status": "broedvogel, wintergast"
+  },
+  {
+    "naam": "Taigarietgans",
+    "WetSchap": "Anser fabalis",
+    "status": "schaarse wintergast"
+  },
+  {
+    "naam": "Kleine rietgans",
+    "WetSchap": "Anser brachyrhynchus",
+    "status": "wintergast"
+  },
+  {
+    "naam": "Toendrarietgans",
+    "WetSchap": "Anser serrirostris",
+    "status": "wintergast"
+  },
+  {
+    "naam": "Kolgans",
+    "WetSchap": "Anser albifrons",
+    "status": "broedvogel, wintergast"
+  },
+  {
+    "naam": "Dwerggans",
+    "WetSchap": "Anser erythropus",
+    "status": "schaarse wintergast"
+  },
+  {
+    "naam": "Zwarte zwaan",
+    "WetSchap": "Cygnus atratus",
+    "status": "exoot, schaarse broedvogel"
+  },
+  {
+    "naam": "Knobbelzwaan",
+    "WetSchap": "Cygnus olor",
+    "status": "broedvogel, wintergast"
+  },
+  {
+    "naam": "Kleine zwaan",
+    "WetSchap": "Cygnus bewickii",
+    "status": "wintergast"
+  },
+  {
+    "naam": "Wilde zwaan",
+    "WetSchap": "Cygnus cygnus",
+    "status": "wintergast"
+  },
+  {
+    "naam": "Nijlgans",
+    "WetSchap": "Alopochen aegyptiaca",
+    "status": "exoot, broedvogel"
+  },
+  {
+    "naam": "Bergeend",
+    "WetSchap": "Tadorna tadorna",
+    "status": "broedvogel"
+  },
+  {
+    "naam": "Casarca",
+    "WetSchap": "Tadorna ferruginea",
+    "status": "zeer schaarse broedvogel, zomergast"
+  },
+  {
+    "naam": "Mandarijneend",
+    "WetSchap": "Aix galericulata",
+    "status": "exoot, schaarse broedvogel"
+  },
+  {
+    "naam": "Siberische taling",
+    "WetSchap": "Sibirionetta formosa",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Zomertaling",
+    "WetSchap": "Spatula querquedula",
+    "status": "schaarse broedvogel"
+  },
+  {
+    "naam": "Blauwvleugeltaling",
+    "WetSchap": "Spatula discors",
+    "status": "onregelmatige gast"
+  },
+  {
+    "naam": "Slobeend",
+    "WetSchap": "Spatula clypeata",
+    "status": "broedvogel"
+  },
+  {
+    "naam": "Krakeend",
+    "WetSchap": "Mareca strepera",
+    "status": "broedvogel"
+  },
+  {
+    "naam": "Bronskopeend",
+    "WetSchap": "Mareca falcata",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Smient",
+    "WetSchap": "Mareca penelope",
+    "status": "zeer schaarse broedvogel, wintergast"
+  },
+  {
+    "naam": "Amerikaanse smient",
+    "WetSchap": "Mareca americana",
+    "status": "wintergast"
+  },
+  {
+    "naam": "Wilde eend",
+    "WetSchap": "Anas platyrhynchos",
+    "status": "broedvogel, wintergast"
+  },
+  {
+    "naam": "Pijlstaart",
+    "WetSchap": "Anas acuta",
+    "status": "zeer schaarse broedvogel, wintergast"
+  },
+  {
+    "naam": "Wintertaling",
+    "WetSchap": "Anas crecca",
+    "status": "schaarse broedvogel, wintergast"
+  },
+  {
+    "naam": "Amerikaanse wintertaling",
+    "WetSchap": "Anas carolinensis",
+    "status": "jaargast"
+  },
+  {
+    "naam": "Marmereend",
+    "WetSchap": "Marmaronetta angustirostris",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Krooneend",
+    "WetSchap": "Netta rufina",
+    "status": "schaarse broedvogel"
+  },
+  {
+    "naam": "Grote tafeleend",
+    "WetSchap": "Aythya valisineria",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Amerikaanse tafeleend",
+    "WetSchap": "Aythya americana",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Tafeleend",
+    "WetSchap": "Aythya ferina",
+    "status": "broedvogel, wintergast"
+  },
+  {
+    "naam": "Witoogeend",
+    "WetSchap": "Aythya nyroca",
+    "status": "onregelmatige broedvogel, jaargast"
+  },
+  {
+    "naam": "Ringsnaveleend",
+    "WetSchap": "Aythya collaris",
+    "status": "onregelmatige gast"
+  },
+  {
+    "naam": "Topper",
+    "WetSchap": "Aythya marila",
+    "status": "doortrekker, wintergast"
+  },
+  {
+    "naam": "Kleine topper",
+    "WetSchap": "Aythya affinis",
+    "status": "onregelmatige gast"
+  },
+  {
+    "naam": "Kuifeend",
+    "WetSchap": "Aythya fuligula",
+    "status": "broedvogel, wintergast"
+  },
+  {
+    "naam": "Stellers eider",
+    "WetSchap": "Polysticta stelleri",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Koningseider",
+    "WetSchap": "Somateria spectabilis",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Eider",
+    "WetSchap": "Somateria mollissima",
+    "status": "broedvogel, doortrekker"
+  },
+  {
+    "naam": "Harlekijneend",
+    "WetSchap": "Histrionicus histrionicus",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Brilzee-eend",
+    "WetSchap": "Melanitta perspicillata",
+    "status": "onregelmatige gast"
+  },
+  {
+    "naam": "Grote zee-eend",
+    "WetSchap": "Melanitta fusca",
+    "status": "schaarse doortrekker, wintergast"
+  },
+  {
+    "naam": "Zwarte zee-eend",
+    "WetSchap": "Melanitta nigra",
+    "status": "doortrekker, wintergast"
+  },
+  {
+    "naam": "Amerikaanse zee-eend",
+    "WetSchap": "Melanitta americana",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "IJseend",
+    "WetSchap": "Clangula hyemalis",
+    "status": "schaarse doortrekker, wintergast"
+  },
+  {
+    "naam": "Buffelkopeend",
+    "WetSchap": "Bucephala albeola",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Brilduiker",
+    "WetSchap": "Bucephala clangula",
+    "status": "zeer schaarse broedvogel, wintergast"
+  },
+  {
+    "naam": "Nonnetje",
+    "WetSchap": "Mergellus albellus",
+    "status": "zeer schaarse broedvogel, wintergast"
+  },
+  {
+    "naam": "Grote zaagbek",
+    "WetSchap": "Mergus merganser",
+    "status": "doortrekker, wintergast"
+  },
+  {
+    "naam": "Middelste zaagbek",
+    "WetSchap": "Mergus serrator",
+    "status": "zeer schaarse broedvogel, wintergast"
+  },
+  {
+    "naam": "Rosse stekelstaart",
+    "WetSchap": "Oxyura jamaicensis",
+    "status": "exoot, onregelmatige broedvogel"
+  },
+  {
+    "naam": "Witkopeend",
+    "WetSchap": "Oxyura leucocephala",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Hazelhoen",
+    "WetSchap": "Tetrastes bonasia",
+    "status": "-"
+  },
+  {
+    "naam": "Auerhoen",
+    "WetSchap": "Tetrao urogallus",
+    "status": "-"
+  },
+  {
+    "naam": "Korhoen",
+    "WetSchap": "Lyrurus tetrix",
+    "status": "zeer schaarse broedvogel"
+  },
+  {
+    "naam": "Patrijs",
+    "WetSchap": "Perdix perdix",
+    "status": "broedvogel"
+  },
+  {
+    "naam": "Fazant",
+    "WetSchap": "Phasianus colchicus",
+    "status": "exoot, broedvogel"
+  },
+  {
+    "naam": "Kwartel",
+    "WetSchap": "Coturnix coturnix",
+    "status": "broedvogel"
+  },
+  {
+    "naam": "Nachtzwaluw",
+    "WetSchap": "Caprimulgus europaeus",
+    "status": "broedvogel"
+  },
+  {
+    "naam": "Stekelstaartgierzwaluw",
+    "WetSchap": "Hirundapus caudacutus",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Alpengierzwaluw",
+    "WetSchap": "Tachymarptis melba",
+    "status": "zomergast"
+  },
+  {
+    "naam": "Gierzwaluw",
+    "WetSchap": "Apus apus",
+    "status": "broedvogel"
+  },
+  {
+    "naam": "Vale gierzwaluw",
+    "WetSchap": "Apus pallidus",
+    "status": "zomergast"
+  },
+  {
+    "naam": "Siberische gierzwaluw",
+    "WetSchap": "Apus pacificus",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Huisgierzwaluw",
+    "WetSchap": "Apus affinis",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Horusgierzwaluw",
+    "WetSchap": "Apus horus",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Pijlstaartgierzwaluw",
+    "WetSchap": "Apus caffer",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Grote trap",
+    "WetSchap": "Otis tarda",
+    "status": "onregelmatige gast"
+  },
+  {
+    "naam": "Oostelijke kraagtrap",
+    "WetSchap": "Chlamydotis macqueenii",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Kleine trap",
+    "WetSchap": "Tetrax tetrax",
+    "status": "onregelmatige gast"
+  },
+  {
+    "naam": "Kuifkoekoek",
+    "WetSchap": "Clamator glandarius",
+    "status": "onregelmatige gast"
+  },
+  {
+    "naam": "Geelsnavelkoekoek",
+    "WetSchap": "Coccyzus americanus",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Koekoek",
+    "WetSchap": "Cuculus canorus",
+    "status": "broedvogel"
+  },
+  {
+    "naam": "Steppehoen",
+    "WetSchap": "Syrrhaptes paradoxus",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Zwartbuikzandhoen",
+    "WetSchap": "Pterocles orientalis",
+    "status": "-"
+  },
+  {
+    "naam": "Rotsduif",
+    "WetSchap": "Columba livia",
+    "status": "exoot, broedvogel"
+  },
+  {
+    "naam": "Holenduif",
+    "WetSchap": "Columba oenas",
+    "status": "broedvogel"
+  },
+  {
+    "naam": "Houtduif",
+    "WetSchap": "Columba palumbus",
+    "status": "broedvogel"
+  },
+  {
+    "naam": "Zomertortel",
+    "WetSchap": "Streptopelia turtur",
+    "status": "schaarse broedvogel"
+  },
+  {
+    "naam": "Oosterse tortel",
+    "WetSchap": "Streptopelia orientalis",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Turkse tortel",
+    "WetSchap": "Streptopelia decaocto",
+    "status": "broedvogel"
+  },
+  {
+    "naam": "Waterral",
+    "WetSchap": "Rallus aquaticus",
+    "status": "broedvogel"
+  },
+  {
+    "naam": "Kwartelkoning",
+    "WetSchap": "Crex crex",
+    "status": "zeer schaarse broedvogel"
+  },
+  {
+    "naam": "Porseleinhoen",
+    "WetSchap": "Porzana porzana",
+    "status": "schaarse broedvogel"
+  },
+  {
+    "naam": "Kleinst waterhoen",
+    "WetSchap": "Zapornia pusilla",
+    "status": "zeer schaarse broedvogel"
+  },
+  {
+    "naam": "Klein waterhoen",
+    "WetSchap": "Zapornia parva",
+    "status": "onregelmatige broedvogel"
+  },
+  {
+    "naam": "Purperkoet",
+    "WetSchap": "Porphyrio porphyrio",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Afrikaans purperhoen",
+    "WetSchap": "Porphyrio alleni",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Waterhoen",
+    "WetSchap": "Gallinula chloropus",
+    "status": "broedvogel, wintergast"
+  },
+  {
+    "naam": "Meerkoet",
+    "WetSchap": "Fulica atra",
+    "status": "broedvogel, wintergast"
+  },
+  {
+    "naam": "Canadese kraanvogel",
+    "WetSchap": "Antigone canadensis",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Jufferkraanvogel",
+    "WetSchap": "Grus virgo",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Kraanvogel",
+    "WetSchap": "Grus grus",
+    "status": "zeer schaarse broedvogel, doortrekker"
+  },
+  {
+    "naam": "Dodaars",
+    "WetSchap": "Tachybaptus ruficollis",
+    "status": "broedvogel, wintergast"
+  },
+  {
+    "naam": "Dikbekfuut",
+    "WetSchap": "Podilymbus podiceps",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Roodhalsfuut",
+    "WetSchap": "Podiceps grisegena",
+    "status": "zeer schaarse broedvogel, wintergast"
+  },
+  {
+    "naam": "Fuut",
+    "WetSchap": "Podiceps cristatus",
+    "status": "broedvogel, wintergast"
+  },
+  {
+    "naam": "Kuifduiker",
+    "WetSchap": "Podiceps auritus",
+    "status": "schaarse doortrekker, wintergast"
+  },
+  {
+    "naam": "Geoorde fuut",
+    "WetSchap": "Podiceps nigricollis",
+    "status": "schaarse broedvogel, wintergast"
+  },
+  {
+    "naam": "Flamingo",
+    "WetSchap": "Phoenicopterus roseus",
+    "status": "wintergast"
+  },
+  {
+    "naam": "Griel",
+    "WetSchap": "Burhinus oedicnemus",
+    "status": "voormalige broedvogel, zomergast"
+  },
+  {
+    "naam": "Scholekster",
+    "WetSchap": "Haematopus ostralegus",
+    "status": "broedvogel, wintergast"
+  },
+  {
+    "naam": "Steltkluut",
+    "WetSchap": "Himantopus himantopus",
+    "status": "schaarse broedvogel"
+  },
+  {
+    "naam": "Kluut",
+    "WetSchap": "Recurvirostra avosetta",
+    "status": "broedvogel"
+  },
+  {
+    "naam": "Kievit",
+    "WetSchap": "Vanellus vanellus",
+    "status": "broedvogel"
+  },
+  {
+    "naam": "Grijskopkievit",
+    "WetSchap": "Vanellus cinereus",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Indische kievit",
+    "WetSchap": "Vanellus indicus",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Steppekievit",
+    "WetSchap": "Vanellus gregarius",
+    "status": "onregelmatige gast"
+  },
+  {
+    "naam": "Witstaartkievit",
+    "WetSchap": "Vanellus leucurus",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Goudplevier",
+    "WetSchap": "Pluvialis apricaria",
+    "status": "doortrekker, wintergast"
+  },
+  {
+    "naam": "Aziatische goudplevier",
+    "WetSchap": "Pluvialis fulva",
+    "status": "onregelmatige gast"
+  },
+  {
+    "naam": "Amerikaanse goudplevier",
+    "WetSchap": "Pluvialis dominica",
+    "status": "onregelmatige gast"
+  },
+  {
+    "naam": "Zilverplevier",
+    "WetSchap": "Pluvialis squatarola",
+    "status": "doortrekker, wintergast"
+  },
+  {
+    "naam": "Bontbekplevier",
+    "WetSchap": "Charadrius hiaticula",
+    "status": "schaarse broedvogel, doortrekker"
+  },
+  {
+    "naam": "Kleine plevier",
+    "WetSchap": "Charadrius dubius",
+    "status": "broedvogel"
+  },
+  {
+    "naam": "Killdeerplevier",
+    "WetSchap": "Charadrius vociferus",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Strandplevier",
+    "WetSchap": "Charadrius alexandrinus",
+    "status": "schaarse broedvogel"
+  },
+  {
+    "naam": "Mongoolse plevier",
+    "WetSchap": "Charadrius mongolus",
+    "status": "-"
+  },
+  {
+    "naam": "Woestijnplevier",
+    "WetSchap": "Charadrius leschenaultii",
+    "status": "onregelmatige gast"
+  },
+  {
+    "naam": "Kaspische plevier",
+    "WetSchap": "Charadrius asiaticus",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Steppeplevier",
+    "WetSchap": "Charadrius veredus",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Morinelplevier",
+    "WetSchap": "Charadrius morinellus",
+    "status": "doortrekker"
+  },
+  {
+    "naam": "Bartrams ruiter",
+    "WetSchap": "Bartramia longicauda",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Regenwulp",
+    "WetSchap": "Numenius phaeopus",
+    "status": "doortrekker"
+  },
+  {
+    "naam": "Kleine regenwulp",
+    "WetSchap": "Numenius minutus",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Dunbekwulp",
+    "WetSchap": "Numenius tenuirostris",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Wulp",
+    "WetSchap": "Numenius arquata",
+    "status": "broedvogel, wintergast"
+  },
+  {
+    "naam": "Rosse grutto",
+    "WetSchap": "Limosa lapponica",
+    "status": "doortrekker, wintergast"
+  },
+  {
+    "naam": "Grutto",
+    "WetSchap": "Limosa limosa",
+    "status": "broedvogel, doortrekker"
+  },
+  {
+    "naam": "Steenloper",
+    "WetSchap": "Arenaria interpres",
+    "status": "doortrekker, wintergast"
+  },
+  {
+    "naam": "Grote kanoet",
+    "WetSchap": "Calidris tenuirostris",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Kanoet",
+    "WetSchap": "Calidris canutus",
+    "status": "doortrekker, wintergast"
+  },
+  {
+    "naam": "Kemphaan",
+    "WetSchap": "Calidris pugnax",
+    "status": "zeer schaarse broedvogel, doortrekker"
+  },
+  {
+    "naam": "Breedbekstrandloper",
+    "WetSchap": "Calidris falcinellus",
+    "status": "jaargast"
+  },
+  {
+    "naam": "Siberische strandloper",
+    "WetSchap": "Calidris acuminata",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Steltstrandloper",
+    "WetSchap": "Calidris himantopus",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Krombekstrandloper",
+    "WetSchap": "Calidris ferruginea",
+    "status": "doortrekker"
+  },
+  {
+    "naam": "Temmincks strandloper",
+    "WetSchap": "Calidris temminckii",
+    "status": "schaarse doortrekker"
+  },
+  {
+    "naam": "Taigastrandloper",
+    "WetSchap": "Calidris subminuta",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Roodkeelstrandloper",
+    "WetSchap": "Calidris ruficollis",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Drieteenstrandloper",
+    "WetSchap": "Calidris alba",
+    "status": "doortrekker, wintergast"
+  },
+  {
+    "naam": "Bonte strandloper",
+    "WetSchap": "Calidris alpina",
+    "status": "doortrekker, wintergast"
+  },
+  {
+    "naam": "Paarse strandloper",
+    "WetSchap": "Calidris maritima",
+    "status": "schaarse doortrekker, wintergast"
+  },
+  {
+    "naam": "Bairds strandloper",
+    "WetSchap": "Calidris bairdii",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Kleine strandloper",
+    "WetSchap": "Calidris minuta",
+    "status": "schaarse doortrekker"
+  },
+  {
+    "naam": "Kleinste strandloper",
+    "WetSchap": "Calidris minutilla",
+    "status": "-"
+  },
+  {
+    "naam": "Bonapartes strandloper",
+    "WetSchap": "Calidris fuscicollis",
+    "status": "onregelmatige gast"
+  },
+  {
+    "naam": "Blonde ruiter",
+    "WetSchap": "Calidris subruficollis",
+    "status": "onregelmatige gast"
+  },
+  {
+    "naam": "Gestreepte strandloper",
+    "WetSchap": "Calidris melanotos",
+    "status": "jaargast"
+  },
+  {
+    "naam": "Grijze strandloper",
+    "WetSchap": "Calidris pusilla",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Alaskastrandloper",
+    "WetSchap": "Calidris mauri",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Grote grijze snip",
+    "WetSchap": "Limnodromus scolopaceus",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Houtsnip",
+    "WetSchap": "Scolopax rusticola",
+    "status": "broedvogel, wintergast"
+  },
+  {
+    "naam": "Bokje",
+    "WetSchap": "Lymnocryptes minimus",
+    "status": "doortrekker"
+  },
+  {
+    "naam": "Poelsnip",
+    "WetSchap": "Gallinago media",
+    "status": "onregelmatige gast"
+  },
+  {
+    "naam": "Watersnip",
+    "WetSchap": "Gallinago gallinago",
+    "status": "broedvogel, wintergast"
+  },
+  {
+    "naam": "Terekruiter",
+    "WetSchap": "Xenus cinereus",
+    "status": "onregelmatige gast"
+  },
+  {
+    "naam": "Grote franjepoot",
+    "WetSchap": "Phalaropus tricolor",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Grauwe franjepoot",
+    "WetSchap": "Phalaropus lobatus",
+    "status": "schaarse doortrekker"
+  },
+  {
+    "naam": "Rosse franjepoot",
+    "WetSchap": "Phalaropus fulicarius",
+    "status": "zeer schaarse doortrekker"
+  },
+  {
+    "naam": "Oeverloper",
+    "WetSchap": "Actitis hypoleucos",
+    "status": "zeer schaarse broedvogel, doortrekker"
+  },
+  {
+    "naam": "Amerikaanse oeverloper",
+    "WetSchap": "Actitis macularius",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Witgat",
+    "WetSchap": "Tringa ochropus",
+    "status": "doortrekker, wintergast"
+  },
+  {
+    "naam": "Amerikaanse bosruiter",
+    "WetSchap": "Tringa solitaria",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Siberische grijze ruiter",
+    "WetSchap": "Tringa brevipes",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Kleine geelpootruiter",
+    "WetSchap": "Tringa flavipes",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Tureluur",
+    "WetSchap": "Tringa totanus",
+    "status": "broedvogel, doortrekker"
+  },
+  {
+    "naam": "Poelruiter",
+    "WetSchap": "Tringa stagnatilis",
+    "status": "jaargast"
+  },
+  {
+    "naam": "Bosruiter",
+    "WetSchap": "Tringa glareola",
+    "status": "doortrekker"
+  },
+  {
+    "naam": "Zwarte ruiter",
+    "WetSchap": "Tringa erythropus",
+    "status": "doortrekker"
+  },
+  {
+    "naam": "Groenpootruiter",
+    "WetSchap": "Tringa nebularia",
+    "status": "doortrekker"
+  },
+  {
+    "naam": "Grote geelpootruiter",
+    "WetSchap": "Tringa melanoleuca",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Renvogel",
+    "WetSchap": "Cursorius cursor",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Vorkstaartplevier",
+    "WetSchap": "Glareola pratincola",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Oosterse vorkstaartplevier",
+    "WetSchap": "Glareola maldivarum",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Steppevorkstaartplevier",
+    "WetSchap": "Glareola nordmanni",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Drieteenmeeuw",
+    "WetSchap": "Rissa tridactyla",
+    "status": "schaarse broedvogel, doortrekker"
+  },
+  {
+    "naam": "Ivoormeeuw",
+    "WetSchap": "Pagophila eburnea",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Vorkstaartmeeuw",
+    "WetSchap": "Xema sabini",
+    "status": "jaargast"
+  },
+  {
+    "naam": "Dunbekmeeuw",
+    "WetSchap": "Chroicocephalus genei",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Kleine kokmeeuw",
+    "WetSchap": "Chroicocephalus philadelphia",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Kokmeeuw",
+    "WetSchap": "Chroicocephalus ridibundus",
+    "status": "broedvogel"
+  },
+  {
+    "naam": "Dwergmeeuw",
+    "WetSchap": "Hydrocoloeus minutus",
+    "status": "onregelmatige broedvogel, doortrekker"
+  },
+  {
+    "naam": "Ross' meeuw",
+    "WetSchap": "Rhodostethia rosea",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Lachmeeuw",
+    "WetSchap": "Leucophaeus atricilla",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Franklins meeuw",
+    "WetSchap": "Leucophaeus pipixcan",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Audouins meeuw",
+    "WetSchap": "Ichthyaetus audouinii",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Zwartkopmeeuw",
+    "WetSchap": "Ichthyaetus melanocephalus",
+    "status": "broedvogel"
+  },
+  {
+    "naam": "Reuzenzwartkopmeeuw",
+    "WetSchap": "Ichthyaetus ichthyaetus",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Stormmeeuw",
+    "WetSchap": "Larus canus",
+    "status": "broedvogel, doortrekker"
+  },
+  {
+    "naam": "Ringsnavelmeeuw",
+    "WetSchap": "Larus delawarensis",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Grote mantelmeeuw",
+    "WetSchap": "Larus marinus",
+    "status": "zeer schaarse broedvogel, wintergast"
+  },
+  {
+    "naam": "Grote burgemeester",
+    "WetSchap": "Larus hyperboreus",
+    "status": "jaargast"
+  },
+  {
+    "naam": "Kleine burgemeester",
+    "WetSchap": "Larus glaucoides",
+    "status": "jaargast"
+  },
+  {
+    "naam": "Zilvermeeuw",
+    "WetSchap": "Larus argentatus",
+    "status": "broedvogel"
+  },
+  {
+    "naam": "Pontische meeuw",
+    "WetSchap": "Larus cachinnans",
+    "status": "zeer schaarse broedvogel, wintergast"
+  },
+  {
+    "naam": "Geelpootmeeuw",
+    "WetSchap": "Larus michahellis",
+    "status": "zeer schaarse broedvogel, wintergast"
+  },
+  {
+    "naam": "Kleine mantelmeeuw",
+    "WetSchap": "Larus fuscus",
+    "status": "broedvogel, doortrekker"
+  },
+  {
+    "naam": "Lachstern",
+    "WetSchap": "Gelochelidon nilotica",
+    "status": "doortrekker"
+  },
+  {
+    "naam": "Reuzenstern",
+    "WetSchap": "Hydroprogne caspia",
+    "status": "doortrekker"
+  },
+  {
+    "naam": "Grote stern",
+    "WetSchap": "Thalasseus sandvicensis",
+    "status": "broedvogel, doortrekker"
+  },
+  {
+    "naam": "Amerikaanse grote stern",
+    "WetSchap": "Thalasseus acuflavidus",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Sierlijke stern",
+    "WetSchap": "Thalasseus elegans",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Dwergstern",
+    "WetSchap": "Sternula albifrons",
+    "status": "broedvogel"
+  },
+  {
+    "naam": "Brilstern",
+    "WetSchap": "Onychoprion anaethetus",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Bonte stern",
+    "WetSchap": "Onychoprion fuscatus",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Dougalls stern",
+    "WetSchap": "Sterna dougallii",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Visdief",
+    "WetSchap": "Sterna hirundo",
+    "status": "broedvogel, doortrekker"
+  },
+  {
+    "naam": "Noordse stern",
+    "WetSchap": "Sterna paradisaea",
+    "status": "broedvogel, doortrekker"
+  },
+  {
+    "naam": "Forsters stern",
+    "WetSchap": "Sterna forsteri",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Witwangstern",
+    "WetSchap": "Chlidonias hybrida",
+    "status": "zeer schaarse broedvogel"
+  },
+  {
+    "naam": "Witvleugelstern",
+    "WetSchap": "Chlidonias leucopterus",
+    "status": "incidentele broedvogel, zomergast"
+  },
+  {
+    "naam": "Zwarte stern",
+    "WetSchap": "Chlidonias niger",
+    "status": "broedvogel, doortrekker"
+  },
+  {
+    "naam": "Grote jager",
+    "WetSchap": "Stercorarius skua",
+    "status": "doortrekker"
+  },
+  {
+    "naam": "Middelste jager",
+    "WetSchap": "Stercorarius pomarinus",
+    "status": "schaarse doortrekker"
+  },
+  {
+    "naam": "Kleine jager",
+    "WetSchap": "Stercorarius parasiticus",
+    "status": "doortrekker"
+  },
+  {
+    "naam": "Kleinste jager",
+    "WetSchap": "Stercorarius longicaudus",
+    "status": "zeer schaarse doortrekker"
+  },
+  {
+    "naam": "Kleine alk",
+    "WetSchap": "Alle alle",
+    "status": "schaarse doortrekker"
+  },
+  {
+    "naam": "Kortbekzeekoet",
+    "WetSchap": "Uria lomvia",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Zeekoet",
+    "WetSchap": "Uria aalge",
+    "status": "doortrekker, wintergast"
+  },
+  {
+    "naam": "Alk",
+    "WetSchap": "Alca torda",
+    "status": "doortrekker, wintergast"
+  },
+  {
+    "naam": "Zwarte zeekoet",
+    "WetSchap": "Cepphus grylle",
+    "status": "jaargast"
+  },
+  {
+    "naam": "Papegaaiduiker",
+    "WetSchap": "Fratercula arctica",
+    "status": "schaarse doortrekker"
+  },
+  {
+    "naam": "Roodkeelduiker",
+    "WetSchap": "Gavia stellata",
+    "status": "doortrekker, wintergast"
+  },
+  {
+    "naam": "Parelduiker",
+    "WetSchap": "Gavia arctica",
+    "status": "schaarse doortrekker, wintergast"
+  },
+  {
+    "naam": "Pacifische parelduiker",
+    "WetSchap": "Gavia pacifica",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "IJsduiker",
+    "WetSchap": "Gavia immer",
+    "status": "schaarse wintergast"
+  },
+  {
+    "naam": "Geelsnavelduiker",
+    "WetSchap": "Gavia adamsii",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Wilsons stormvogeltje",
+    "WetSchap": "Oceanites oceanicus",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Bont stormvogeltje",
+    "WetSchap": "Pelagodroma marina",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Wenkbrauwalbatros",
+    "WetSchap": "Thalassarche melanophris",
+    "status": "-"
+  },
+  {
+    "naam": "Stormvogeltje",
+    "WetSchap": "Hydrobates pelagicus",
+    "status": "zeer schaarse doortrekker"
+  },
+  {
+    "naam": "Vaal stormvogeltje",
+    "WetSchap": "Hydrobates leucorhous",
+    "status": "schaarse doortrekker"
+  },
+  {
+    "naam": "Noordse stormvogel",
+    "WetSchap": "Fulmarus glacialis",
+    "status": "doortrekker"
+  },
+  {
+    "naam": "Donsstormvogel",
+    "WetSchap": "Pterodroma mollis",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Scopoli's pijlstormvogel",
+    "WetSchap": "Calonectris diomedea",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Kuhls pijlstormvogel",
+    "WetSchap": "Calonectris borealis",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Grauwe pijlstormvogel",
+    "WetSchap": "Ardenna grisea",
+    "status": "schaarse doortrekker"
+  },
+  {
+    "naam": "Grote pijlstormvogel",
+    "WetSchap": "Ardenna gravis",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Noordse pijlstormvogel",
+    "WetSchap": "Puffinus puffinus",
+    "status": "schaarse doortrekker"
+  },
+  {
+    "naam": "Vale pijlstormvogel",
+    "WetSchap": "Puffinus mauretanicus",
+    "status": "schaarse doortrekker"
+  },
+  {
+    "naam": "Zwarte ooievaar",
+    "WetSchap": "Ciconia nigra",
+    "status": "zomergast"
+  },
+  {
+    "naam": "Ooievaar",
+    "WetSchap": "Ciconia ciconia",
+    "status": "broedvogel"
+  },
+  {
+    "naam": "Jan-van-gent",
+    "WetSchap": "Morus bassanus",
+    "status": "doortrekker"
+  },
+  {
+    "naam": "Bruine gent",
+    "WetSchap": "Sula leucogaster",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Dwergaalscholver",
+    "WetSchap": "Microcarbo pygmaeus",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Aalscholver",
+    "WetSchap": "Phalacrocorax carbo",
+    "status": "broedvogel"
+  },
+  {
+    "naam": "Kuifaalscholver",
+    "WetSchap": "Gulosus aristotelis",
+    "status": "jaargast"
+  },
+  {
+    "naam": "Zwarte ibis",
+    "WetSchap": "Plegadis falcinellus",
+    "status": "jaargast"
+  },
+  {
+    "naam": "Lepelaar",
+    "WetSchap": "Platalea leucorodia",
+    "status": "broedvogel"
+  },
+  {
+    "naam": "Roerdomp",
+    "WetSchap": "Botaurus stellaris",
+    "status": "broedvogel"
+  },
+  {
+    "naam": "Woudaapje",
+    "WetSchap": "Ixobrychus minutus",
+    "status": "zeer schaarse broedvogel"
+  },
+  {
+    "naam": "Kwak",
+    "WetSchap": "Nycticorax nycticorax",
+    "status": "zeer schaarse broedvogel"
+  },
+  {
+    "naam": "Groene reiger",
+    "WetSchap": "Butorides virescens",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Ralreiger",
+    "WetSchap": "Ardeola ralloides",
+    "status": "jaargast"
+  },
+  {
+    "naam": "Koereiger",
+    "WetSchap": "Bubulcus ibis",
+    "status": "zeer schaarse broedvogel, jaargast"
+  },
+  {
+    "naam": "Blauwe reiger",
+    "WetSchap": "Ardea cinerea",
+    "status": "broedvogel"
+  },
+  {
+    "naam": "Purperreiger",
+    "WetSchap": "Ardea purpurea",
+    "status": "broedvogel"
+  },
+  {
+    "naam": "Grote zilverreiger",
+    "WetSchap": "Ardea alba",
+    "status": "schaarse broedvogel"
+  },
+  {
+    "naam": "Kleine zilverreiger",
+    "WetSchap": "Egretta garzetta",
+    "status": "schaarse broedvogel"
+  },
+  {
+    "naam": "Roze pelikaan",
+    "WetSchap": "Pelecanus onocrotalus",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Kroeskoppelikaan",
+    "WetSchap": "Pelecanus crispus",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Visarend",
+    "WetSchap": "Pandion haliaetus",
+    "status": "zeer schaarse broedvogel, doortrekker"
+  },
+  {
+    "naam": "Grijze wouw",
+    "WetSchap": "Elanus caeruleus",
+    "status": "jaargast"
+  },
+  {
+    "naam": "Lammergier",
+    "WetSchap": "Gypaetus barbatus",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Aasgier",
+    "WetSchap": "Neophron percnopterus",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Wespendief",
+    "WetSchap": "Pernis apivorus",
+    "status": "schaarse broedvogel"
+  },
+  {
+    "naam": "Vale gier",
+    "WetSchap": "Gyps fulvus",
+    "status": "onregelmatige gast"
+  },
+  {
+    "naam": "Monniksgier",
+    "WetSchap": "Aegypius monachus",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Slangenarend",
+    "WetSchap": "Circaetus gallicus",
+    "status": "zomergast"
+  },
+  {
+    "naam": "Schreeuwarend",
+    "WetSchap": "Clanga pomarina",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Bastaardarend",
+    "WetSchap": "Clanga clanga",
+    "status": "onregelmatige gast"
+  },
+  {
+    "naam": "Dwergarend",
+    "WetSchap": "Hieraaetus pennatus",
+    "status": "onregelmatige gast"
+  },
+  {
+    "naam": "Steppearend",
+    "WetSchap": "Aquila nipalensis",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Spaanse keizerarend",
+    "WetSchap": "Aquila adalberti",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Keizerarend",
+    "WetSchap": "Aquila heliaca",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Steenarend",
+    "WetSchap": "Aquila chrysaetos",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Havikarend",
+    "WetSchap": "Aquila fasciata",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Sperwer",
+    "WetSchap": "Accipiter nisus",
+    "status": "broedvogel"
+  },
+  {
+    "naam": "Havik",
+    "WetSchap": "Accipiter gentilis",
+    "status": "broedvogel"
+  },
+  {
+    "naam": "Bruine kiekendief",
+    "WetSchap": "Circus aeruginosus",
+    "status": "broedvogel"
+  },
+  {
+    "naam": "Blauwe kiekendief",
+    "WetSchap": "Circus cyaneus",
+    "status": "zeer schaarse broedvogel, doortrekker"
+  },
+  {
+    "naam": "Steppekiekendief",
+    "WetSchap": "Circus macrourus",
+    "status": "schaarse doortrekker"
+  },
+  {
+    "naam": "Grauwe kiekendief",
+    "WetSchap": "Circus pygargus",
+    "status": "schaarse broedvogel, doortrekker"
+  },
+  {
+    "naam": "Rode wouw",
+    "WetSchap": "Milvus milvus",
+    "status": "zeer schaarse broedvogel, doortrekker"
+  },
+  {
+    "naam": "Zwarte wouw",
+    "WetSchap": "Milvus migrans",
+    "status": "zeer schaarse broedvogel, doortrekker"
+  },
+  {
+    "naam": "Zeearend",
+    "WetSchap": "Haliaeetus albicilla",
+    "status": "zeer schaarse broedvogel, jaargast"
+  },
+  {
+    "naam": "Ruigpootbuizerd",
+    "WetSchap": "Buteo lagopus",
+    "status": "schaarse wintergast"
+  },
+  {
+    "naam": "Arendbuizerd",
+    "WetSchap": "Buteo rufinus",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Buizerd",
+    "WetSchap": "Buteo buteo",
+    "status": "broedvogel"
+  },
+  {
+    "naam": "Kerkuil",
+    "WetSchap": "Tyto alba",
+    "status": "broedvogel"
+  },
+  {
+    "naam": "Ruigpootuil",
+    "WetSchap": "Aegolius funereus",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Steenuil",
+    "WetSchap": "Athene noctua",
+    "status": "broedvogel"
+  },
+  {
+    "naam": "Sperweruil",
+    "WetSchap": "Surnia ulula",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Dwerguil",
+    "WetSchap": "Glaucidium passerinum",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Dwergooruil",
+    "WetSchap": "Otus scops",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Ransuil",
+    "WetSchap": "Asio otus",
+    "status": "broedvogel, wintergast"
+  },
+  {
+    "naam": "Velduil",
+    "WetSchap": "Asio flammeus",
+    "status": "schaarse broedvogel"
+  },
+  {
+    "naam": "Sneeuwuil",
+    "WetSchap": "Bubo scandiacus",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Oehoe",
+    "WetSchap": "Bubo bubo",
+    "status": "zeer schaarse broedvogel"
+  },
+  {
+    "naam": "Bosuil",
+    "WetSchap": "Strix aluco",
+    "status": "broedvogel"
+  },
+  {
+    "naam": "Hop",
+    "WetSchap": "Upupa epops",
+    "status": "incidentele broedvogel, zomergast"
+  },
+  {
+    "naam": "Scharrelaar",
+    "WetSchap": "Coracias garrulus",
+    "status": "onregelmatige gast"
+  },
+  {
+    "naam": "IJsvogel",
+    "WetSchap": "Alcedo atthis",
+    "status": "broedvogel"
+  },
+  {
+    "naam": "Bandijsvogel",
+    "WetSchap": "Megaceryle alcyon",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Groene bijeneter",
+    "WetSchap": "Merops persicus",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Bijeneter",
+    "WetSchap": "Merops apiaster",
+    "status": "zeer schaarse broedvogel, zomergast"
+  },
+  {
+    "naam": "Draaihals",
+    "WetSchap": "Jynx torquilla",
+    "status": "schaarse broedvogel, doortrekker"
+  },
+  {
+    "naam": "Middelste bonte specht",
+    "WetSchap": "Dendrocoptes medius",
+    "status": "broedvogel"
+  },
+  {
+    "naam": "Kleine bonte specht",
+    "WetSchap": "Dryobates minor",
+    "status": "broedvogel"
+  },
+  {
+    "naam": "Grote bonte specht",
+    "WetSchap": "Dendrocopos major",
+    "status": "broedvogel"
+  },
+  {
+    "naam": "Witrugspecht",
+    "WetSchap": "Dendrocopos leucotos",
+    "status": "-"
+  },
+  {
+    "naam": "Zwarte specht",
+    "WetSchap": "Dryocopus martius",
+    "status": "broedvogel"
+  },
+  {
+    "naam": "Groene specht",
+    "WetSchap": "Picus viridis",
+    "status": "broedvogel"
+  },
+  {
+    "naam": "Grijskopspecht",
+    "WetSchap": "Picus canus",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Kleine torenvalk",
+    "WetSchap": "Falco naumanni",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Torenvalk",
+    "WetSchap": "Falco tinnunculus",
+    "status": "broedvogel"
+  },
+  {
+    "naam": "Roodpootvalk",
+    "WetSchap": "Falco vespertinus",
+    "status": "schaarse doortrekker"
+  },
+  {
+    "naam": "Eleonora's valk",
+    "WetSchap": "Falco eleonorae",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Smelleken",
+    "WetSchap": "Falco columbarius",
+    "status": "schaarse doortrekker, wintergast"
+  },
+  {
+    "naam": "Boomvalk",
+    "WetSchap": "Falco subbuteo",
+    "status": "broedvogel"
+  },
+  {
+    "naam": "Sakervalk",
+    "WetSchap": "Falco cherrug",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Giervalk",
+    "WetSchap": "Falco rusticolus",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Slechtvalk",
+    "WetSchap": "Falco peregrinus",
+    "status": "schaarse broedvogel, doortrekker"
+  },
+  {
+    "naam": "Monniksparkiet",
+    "WetSchap": "Myiopsitta monachus",
+    "status": "exoot, schaarse broedvogel"
+  },
+  {
+    "naam": "Grote alexanderparkiet",
+    "WetSchap": "Psittacula eupatria",
+    "status": "exoot, schaarse broedvogel"
+  },
+  {
+    "naam": "Halsbandparkiet",
+    "WetSchap": "Psittacula krameri",
+    "status": "exoot, broedvogel"
+  },
+  {
+    "naam": "Roodoogvireo",
+    "WetSchap": "Vireo olivaceus",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Wielewaal",
+    "WetSchap": "Oriolus oriolus",
+    "status": "broedvogel"
+  },
+  {
+    "naam": "Bruine klauwier",
+    "WetSchap": "Lanius cristatus",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Grauwe klauwier",
+    "WetSchap": "Lanius collurio",
+    "status": "broedvogel"
+  },
+  {
+    "naam": "Daurische klauwier",
+    "WetSchap": "Lanius isabellinus",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Turkestaanse klauwier",
+    "WetSchap": "Lanius phoenicuroides",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Langstaartklauwier",
+    "WetSchap": "Lanius schach",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Kleine klapekster",
+    "WetSchap": "Lanius minor",
+    "status": "onregelmatige gast"
+  },
+  {
+    "naam": "Noordelijke klapekster",
+    "WetSchap": "Lanius borealis",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Klapekster",
+    "WetSchap": "Lanius excubitor",
+    "status": "voormalige broedvogel, wintergast"
+  },
+  {
+    "naam": "Roodkopklauwier",
+    "WetSchap": "Lanius senator",
+    "status": "voormalige broedvogel, onregelmatige gast"
+  },
+  {
+    "naam": "Maskerklauwier",
+    "WetSchap": "Lanius nubicus",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Gaai",
+    "WetSchap": "Garrulus glandarius",
+    "status": "broedvogel"
+  },
+  {
+    "naam": "Ekster",
+    "WetSchap": "Pica pica",
+    "status": "broedvogel"
+  },
+  {
+    "naam": "Notenkraker",
+    "WetSchap": "Nucifraga caryocatactes",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Alpenkraai",
+    "WetSchap": "Pyrrhocorax graculus",
+    "status": "-"
+  },
+  {
+    "naam": "Kauw",
+    "WetSchap": "Coloeus monedula",
+    "status": "broedvogel"
+  },
+  {
+    "naam": "Daurische kauw",
+    "WetSchap": "Coloeus dauuricus",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Roek",
+    "WetSchap": "Corvus frugilegus",
+    "status": "broedvogel"
+  },
+  {
+    "naam": "Zwarte kraai",
+    "WetSchap": "Corvus corone",
+    "status": "broedvogel"
+  },
+  {
+    "naam": "Bonte kraai",
+    "WetSchap": "Corvus cornix",
+    "status": "schaarse wintergast"
+  },
+  {
+    "naam": "Raaf",
+    "WetSchap": "Corvus corax",
+    "status": "schaarse broedvogel"
+  },
+  {
+    "naam": "Pestvogel",
+    "WetSchap": "Bombycilla garrulus",
+    "status": "schaarse doortrekker, wintergast"
+  },
+  {
+    "naam": "Zwarte mees",
+    "WetSchap": "Periparus ater",
+    "status": "broedvogel"
+  },
+  {
+    "naam": "Kuifmees",
+    "WetSchap": "Lophophanes cristatus",
+    "status": "broedvogel"
+  },
+  {
+    "naam": "Glanskop",
+    "WetSchap": "Poecile palustris",
+    "status": "broedvogel"
+  },
+  {
+    "naam": "Matkop",
+    "WetSchap": "Poecile montanus",
+    "status": "broedvogel"
+  },
+  {
+    "naam": "Pimpelmees",
+    "WetSchap": "Cyanistes caeruleus",
+    "status": "broedvogel"
+  },
+  {
+    "naam": "Azuurmees",
+    "WetSchap": "Cyanistes cyanus",
+    "status": "-"
+  },
+  {
+    "naam": "Koolmees",
+    "WetSchap": "Parus major",
+    "status": "broedvogel"
+  },
+  {
+    "naam": "Buidelmees",
+    "WetSchap": "Remiz pendulinus",
+    "status": "zeer schaarse broedvogel"
+  },
+  {
+    "naam": "Baardmannetje",
+    "WetSchap": "Panurus biarmicus",
+    "status": "broedvogel"
+  },
+  {
+    "naam": "Boomleeuwerik",
+    "WetSchap": "Lullula arborea",
+    "status": "broedvogel"
+  },
+  {
+    "naam": "Veldleeuwerik",
+    "WetSchap": "Alauda arvensis",
+    "status": "broedvogel"
+  },
+  {
+    "naam": "Kuifleeuwerik",
+    "WetSchap": "Galerida cristata",
+    "status": "voormalige broedvogel, dwaalgast"
+  },
+  {
+    "naam": "Strandleeuwerik",
+    "WetSchap": "Eremophila alpestris",
+    "status": "doortrekker, wintergast"
+  },
+  {
+    "naam": "Kortteenleeuwerik",
+    "WetSchap": "Calandrella brachydactyla",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Bergkalanderleeuwerik",
+    "WetSchap": "Melanocorypha bimaculata",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Kalanderleeuwerik",
+    "WetSchap": "Melanocorypha calandra",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Oeverzwaluw",
+    "WetSchap": "Riparia riparia",
+    "status": "broedvogel"
+  },
+  {
+    "naam": "Boerenzwaluw",
+    "WetSchap": "Hirundo rustica",
+    "status": "broedvogel"
+  },
+  {
+    "naam": "Rotszwaluw",
+    "WetSchap": "Ptyonoprogne rupestris",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Huiszwaluw",
+    "WetSchap": "Delichon urbicum",
+    "status": "broedvogel"
+  },
+  {
+    "naam": "Roodstuitzwaluw",
+    "WetSchap": "Cecropis daurica",
+    "status": "onregelmatige gast"
+  },
+  {
+    "naam": "Cetti's zanger",
+    "WetSchap": "Cettia cetti",
+    "status": "broedvogel"
+  },
+  {
+    "naam": "Staartmees",
+    "WetSchap": "Aegithalos caudatus",
+    "status": "broedvogel, wintergast"
+  },
+  {
+    "naam": "Fluiter",
+    "WetSchap": "Phylloscopus sibilatrix",
+    "status": "broedvogel"
+  },
+  {
+    "naam": "Bergfluiter",
+    "WetSchap": "Phylloscopus bonelli",
+    "status": "onregelmatige gast"
+  },
+  {
+    "naam": "Balkanbergfluiter",
+    "WetSchap": "Phylloscopus orientalis",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Humes bladkoning",
+    "WetSchap": "Phylloscopus humei",
+    "status": "schaarse wintergast"
+  },
+  {
+    "naam": "Bladkoning",
+    "WetSchap": "Phylloscopus inornatus",
+    "status": "doortrekker"
+  },
+  {
+    "naam": "Pallas' boszanger",
+    "WetSchap": "Phylloscopus proregulus",
+    "status": "schaarse wintergast"
+  },
+  {
+    "naam": "Raddes boszanger",
+    "WetSchap": "Phylloscopus schwarzi",
+    "status": "onregelmatige gast"
+  },
+  {
+    "naam": "Bruine boszanger",
+    "WetSchap": "Phylloscopus fuscatus",
+    "status": "onregelmatige gast"
+  },
+  {
+    "naam": "Fitis",
+    "WetSchap": "Phylloscopus trochilus",
+    "status": "broedvogel"
+  },
+  {
+    "naam": "Tjiftjaf",
+    "WetSchap": "Phylloscopus collybita",
+    "status": "broedvogel"
+  },
+  {
+    "naam": "Iberische tjiftjaf",
+    "WetSchap": "Phylloscopus ibericus",
+    "status": "zomergast"
+  },
+  {
+    "naam": "Kroonboszanger",
+    "WetSchap": "Phylloscopus coronatus",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Swinhoes boszanger",
+    "WetSchap": "Phylloscopus plumbeitarsus",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Groene fitis",
+    "WetSchap": "Phylloscopus nitidus",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Grauwe fitis",
+    "WetSchap": "Phylloscopus trochiloides",
+    "status": "zomergast"
+  },
+  {
+    "naam": "Noordse boszanger",
+    "WetSchap": "Phylloscopus borealis",
+    "status": "onregelmatige gast"
+  },
+  {
+    "naam": "Grote karekiet",
+    "WetSchap": "Acrocephalus arundinaceus",
+    "status": "schaarse broedvogel"
+  },
+  {
+    "naam": "Zwartkoprietzanger",
+    "WetSchap": "Acrocephalus melanopogon",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Waterrietzanger",
+    "WetSchap": "Acrocephalus paludicola",
+    "status": "schaarse doortrekker"
+  },
+  {
+    "naam": "Rietzanger",
+    "WetSchap": "Acrocephalus schoenobaenus",
+    "status": "broedvogel"
+  },
+  {
+    "naam": "Veldrietzanger",
+    "WetSchap": "Acrocephalus agricola",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Struikrietzanger",
+    "WetSchap": "Acrocephalus dumetorum",
+    "status": "onregelmatige gast"
+  },
+  {
+    "naam": "Kleine karekiet",
+    "WetSchap": "Acrocephalus scirpaceus",
+    "status": "broedvogel"
+  },
+  {
+    "naam": "Bosrietzanger",
+    "WetSchap": "Acrocephalus palustris",
+    "status": "broedvogel"
+  },
+  {
+    "naam": "Kleine spotvogel",
+    "WetSchap": "Iduna caligata",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Sykes' spotvogel",
+    "WetSchap": "Iduna rama",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Oostelijke vale spotvogel",
+    "WetSchap": "Iduna pallida",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Grote vale spotvogel",
+    "WetSchap": "Hippolais languida",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Orpheusspotvogel",
+    "WetSchap": "Hippolais polyglotta",
+    "status": "incidentele broedvogel, zomergast"
+  },
+  {
+    "naam": "Spotvogel",
+    "WetSchap": "Hippolais icterina",
+    "status": "broedvogel"
+  },
+  {
+    "naam": "Siberische sprinkhaanzanger",
+    "WetSchap": "Helopsaltes certhiola",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Kleine sprinkhaanzanger",
+    "WetSchap": "Locustella lanceolata",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Krekelzanger",
+    "WetSchap": "Locustella fluviatilis",
+    "status": "zomergast"
+  },
+  {
+    "naam": "Snor",
+    "WetSchap": "Locustella luscinioides",
+    "status": "broedvogel"
+  },
+  {
+    "naam": "Sprinkhaanzanger",
+    "WetSchap": "Locustella naevia",
+    "status": "broedvogel, doortrekker"
+  },
+  {
+    "naam": "Graszanger",
+    "WetSchap": "Cisticola juncidis",
+    "status": "schaarse broedvogel"
+  },
+  {
+    "naam": "Zwartkop",
+    "WetSchap": "Sylvia atricapilla",
+    "status": "broedvogel"
+  },
+  {
+    "naam": "Tuinfluiter",
+    "WetSchap": "Sylvia borin",
+    "status": "broedvogel"
+  },
+  {
+    "naam": "Sperwergrasmus",
+    "WetSchap": "Curruca nisoria",
+    "status": "schaarse doortrekker"
+  },
+  {
+    "naam": "Braamsluiper",
+    "WetSchap": "Curruca curucca",
+    "status": "broedvogel"
+  },
+  {
+    "naam": "Humes braamsluiper",
+    "WetSchap": "Curruca althaea",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Westelijke orpheusgrasmus",
+    "WetSchap": "Curruca hortensis",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Afrikaanse woestijngrasmus",
+    "WetSchap": "Curruca deserti",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Woestijngrasmus",
+    "WetSchap": "Curruca nana",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Kleine zwartkop",
+    "WetSchap": "Curruca melanocephala",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Moltoni's baardgrasmus",
+    "WetSchap": "Curruca subalpina",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Balkanbaardgrasmus",
+    "WetSchap": "Curruca cantillans",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Grasmus",
+    "WetSchap": "Curruca communis",
+    "status": "broedvogel"
+  },
+  {
+    "naam": "Brilgrasmus",
+    "WetSchap": "Curruca conspicillata",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Sardijnse grasmus",
+    "WetSchap": "Curruca sarda",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Provençaalse grasmus",
+    "WetSchap": "Curruca undata",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Bruinkopdiksnavelmees",
+    "WetSchap": "Suthora webbiana",
+    "status": "exoot, schaarse broedvogel"
+  },
+  {
+    "naam": "Goudhaantje",
+    "WetSchap": "Regulus regulus",
+    "status": "broedvogel"
+  },
+  {
+    "naam": "Vuurgoudhaantje",
+    "WetSchap": "Regulus ignicapilla",
+    "status": "broedvogel"
+  },
+  {
+    "naam": "Winterkoning",
+    "WetSchap": "Troglodytes troglodytes",
+    "status": "broedvogel"
+  },
+  {
+    "naam": "Boomklever",
+    "WetSchap": "Sitta europaea",
+    "status": "broedvogel"
+  },
+  {
+    "naam": "Rotskruiper",
+    "WetSchap": "Tichodroma muraria",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Boomkruiper",
+    "WetSchap": "Certhia brachydactyla",
+    "status": "broedvogel"
+  },
+  {
+    "naam": "Taigaboomkruiper",
+    "WetSchap": "Certhia familiaris",
+    "status": "schaarse broedvogel"
+  },
+  {
+    "naam": "Spotlijster",
+    "WetSchap": "Mimus polyglottos",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Daurische spreeuw",
+    "WetSchap": "Agropsar sturninus",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Roze spreeuw",
+    "WetSchap": "Pastor roseus",
+    "status": "schaarse doortrekker"
+  },
+  {
+    "naam": "Spreeuw",
+    "WetSchap": "Sturnus vulgaris",
+    "status": "broedvogel"
+  },
+  {
+    "naam": "Siberische lijster",
+    "WetSchap": "Geokichla sibirica",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Goudlijster",
+    "WetSchap": "Zoothera aurea",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Grijswangdwerglijster",
+    "WetSchap": "Catharus minimus",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Dwerglijster",
+    "WetSchap": "Catharus ustulatus",
+    "status": "-"
+  },
+  {
+    "naam": "Beflijster",
+    "WetSchap": "Turdus torquatus",
+    "status": "doortrekker"
+  },
+  {
+    "naam": "Merel",
+    "WetSchap": "Turdus merula",
+    "status": "broedvogel"
+  },
+  {
+    "naam": "Vale lijster",
+    "WetSchap": "Turdus obscurus",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Zwartkeellijster",
+    "WetSchap": "Turdus atrogularis",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Naumanns lijster",
+    "WetSchap": "Turdus naumanni",
+    "status": "-"
+  },
+  {
+    "naam": "Bruine lijster",
+    "WetSchap": "Turdus eunomus",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Kramsvogel",
+    "WetSchap": "Turdus pilaris",
+    "status": "zeer schaarse broedvogel, doortrekker"
+  },
+  {
+    "naam": "Koperwiek",
+    "WetSchap": "Turdus iliacus",
+    "status": "doortrekker, wintergast"
+  },
+  {
+    "naam": "Zanglijster",
+    "WetSchap": "Turdus philomelos",
+    "status": "broedvogel"
+  },
+  {
+    "naam": "Grote lijster",
+    "WetSchap": "Turdus viscivorus",
+    "status": "broedvogel"
+  },
+  {
+    "naam": "Roodborstlijster",
+    "WetSchap": "Turdus migratorius",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Rosse waaierstaart",
+    "WetSchap": "Cercotrichas galactotes",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Grauwe vliegenvanger",
+    "WetSchap": "Muscicapa striata",
+    "status": "broedvogel"
+  },
+  {
+    "naam": "Roetvliegenvanger",
+    "WetSchap": "Muscicapa sibirica",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Roodborst",
+    "WetSchap": "Erithacus rubecula",
+    "status": "broedvogel"
+  },
+  {
+    "naam": "Blauwborst",
+    "WetSchap": "Luscinia svecica",
+    "status": "broedvogel"
+  },
+  {
+    "naam": "Noordse nachtegaal",
+    "WetSchap": "Luscinia luscinia",
+    "status": "onregelmatige gast"
+  },
+  {
+    "naam": "Nachtegaal",
+    "WetSchap": "Luscinia megarhynchos",
+    "status": "broedvogel"
+  },
+  {
+    "naam": "Roodkeelnachtegaal",
+    "WetSchap": "Calliope calliope",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Perzische roodborst",
+    "WetSchap": "Irania gutturalis",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Blauwstaart",
+    "WetSchap": "Tarsiger cyanurus",
+    "status": "onregelmatige gast"
+  },
+  {
+    "naam": "Kleine vliegenvanger",
+    "WetSchap": "Ficedula parva",
+    "status": "onregelmatige gast"
+  },
+  {
+    "naam": "Bonte vliegenvanger",
+    "WetSchap": "Ficedula hypoleuca",
+    "status": "broedvogel"
+  },
+  {
+    "naam": "Withalsvliegenvanger",
+    "WetSchap": "Ficedula albicollis",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Balkanvliegenvanger",
+    "WetSchap": "Ficedula semitorquata",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Zwarte roodstaart",
+    "WetSchap": "Phoenicurus ochruros",
+    "status": "broedvogel"
+  },
+  {
+    "naam": "Gekraagde roodstaart",
+    "WetSchap": "Phoenicurus phoenicurus",
+    "status": "broedvogel"
+  },
+  {
+    "naam": "Rode rotslijster",
+    "WetSchap": "Monticola saxatilis",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Blauwe rotslijster",
+    "WetSchap": "Monticola solitarius",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Paapje",
+    "WetSchap": "Saxicola rubetra",
+    "status": "broedvogel"
+  },
+  {
+    "naam": "Roodborsttapuit",
+    "WetSchap": "Saxicola rubicola",
+    "status": "broedvogel"
+  },
+  {
+    "naam": "Aziatische roodborsttapuit",
+    "WetSchap": "Saxicola maurus",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Stejnegers roodborsttapuit",
+    "WetSchap": "Saxicola stejnegeri",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Tapuit",
+    "WetSchap": "Oenanthe oenanthe",
+    "status": "broedvogel"
+  },
+  {
+    "naam": "Seebohms tapuit",
+    "WetSchap": "Oenanthe seebohmi",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Izabeltapuit",
+    "WetSchap": "Oenanthe isabellina",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Woestijntapuit",
+    "WetSchap": "Oenanthe deserti",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Westelijke blonde tapuit",
+    "WetSchap": "Oenanthe hispanica",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Oostelijke blonde tapuit",
+    "WetSchap": "Oenanthe melanoleuca",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Bonte tapuit",
+    "WetSchap": "Oenanthe pleschanka",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Waterspreeuw",
+    "WetSchap": "Cinclus cinclus",
+    "status": "incidentele broedvogel, doortrekker"
+  },
+  {
+    "naam": "Huismus",
+    "WetSchap": "Passer domesticus",
+    "status": "broedvogel"
+  },
+  {
+    "naam": "Spaanse mus",
+    "WetSchap": "Passer hispaniolensis",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Ringmus",
+    "WetSchap": "Passer montanus",
+    "status": "broedvogel"
+  },
+  {
+    "naam": "Rotsmus",
+    "WetSchap": "Petronia petronia",
+    "status": "-"
+  },
+  {
+    "naam": "Alpenheggenmus",
+    "WetSchap": "Prunella collaris",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Bergheggenmus",
+    "WetSchap": "Prunella montanella",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Heggenmus",
+    "WetSchap": "Prunella modularis",
+    "status": "broedvogel"
+  },
+  {
+    "naam": "Gele kwikstaart",
+    "WetSchap": "Motacilla flava",
+    "status": "broedvogel"
+  },
+  {
+    "naam": "Citroenkwikstaart",
+    "WetSchap": "Motacilla citreola",
+    "status": "zomergast"
+  },
+  {
+    "naam": "Grote gele kwikstaart",
+    "WetSchap": "Motacilla cinerea",
+    "status": "schaarse broedvogel"
+  },
+  {
+    "naam": "Witte kwikstaart",
+    "WetSchap": "Motacilla alba",
+    "status": "broedvogel"
+  },
+  {
+    "naam": "Grote pieper",
+    "WetSchap": "Anthus richardi",
+    "status": "doortrekker"
+  },
+  {
+    "naam": "Mongoolse pieper",
+    "WetSchap": "Anthus godlewskii",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Duinpieper",
+    "WetSchap": "Anthus campestris",
+    "status": "voormalige broedvogel, doortrekker"
+  },
+  {
+    "naam": "Graspieper",
+    "WetSchap": "Anthus pratensis",
+    "status": "broedvogel"
+  },
+  {
+    "naam": "Boompieper",
+    "WetSchap": "Anthus trivialis",
+    "status": "broedvogel"
+  },
+  {
+    "naam": "Siberische boompieper",
+    "WetSchap": "Anthus hodgsoni",
+    "status": "schaarse doortrekker"
+  },
+  {
+    "naam": "Roodkeelpieper",
+    "WetSchap": "Anthus cervinus",
+    "status": "schaarse doortrekker"
+  },
+  {
+    "naam": "Pacifische waterpieper",
+    "WetSchap": "Anthus rubescens",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Waterpieper",
+    "WetSchap": "Anthus spinoletta",
+    "status": "doortrekker, wintergast"
+  },
+  {
+    "naam": "Oeverpieper",
+    "WetSchap": "Anthus petrosus",
+    "status": "doortrekker, wintergast"
+  },
+  {
+    "naam": "Vink",
+    "WetSchap": "Fringilla coelebs",
+    "status": "broedvogel"
+  },
+  {
+    "naam": "Keep",
+    "WetSchap": "Fringilla montifringilla",
+    "status": "doortrekker, wintergast"
+  },
+  {
+    "naam": "Appelvink",
+    "WetSchap": "Coccothraustes coccothraustes",
+    "status": "broedvogel"
+  },
+  {
+    "naam": "Haakbek",
+    "WetSchap": "Pinicola enucleator",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Goudvink",
+    "WetSchap": "Pyrrhula pyrrhula",
+    "status": "broedvogel"
+  },
+  {
+    "naam": "Woestijnvink",
+    "WetSchap": "Bucanetes githagineus",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Roodmus",
+    "WetSchap": "Carpodacus erythrinus",
+    "status": "zeer schaarse broedvogel, doortrekker"
+  },
+  {
+    "naam": "Groenling",
+    "WetSchap": "Chloris chloris",
+    "status": "broedvogel"
+  },
+  {
+    "naam": "Frater",
+    "WetSchap": "Linaria flavirostris",
+    "status": "doortrekker, wintergast"
+  },
+  {
+    "naam": "Kneu",
+    "WetSchap": "Linaria cannabina",
+    "status": "broedvogel"
+  },
+  {
+    "naam": "Grote barmsijs",
+    "WetSchap": "Acanthis flammea",
+    "status": "doortrekker"
+  },
+  {
+    "naam": "Kleine barmsijs",
+    "WetSchap": "Acanthis cabaret",
+    "status": "schaarse broedvogel"
+  },
+  {
+    "naam": "Witstuitbarmsijs",
+    "WetSchap": "Acanthis hornemanni",
+    "status": "onregelmatige gast"
+  },
+  {
+    "naam": "Grote kruisbek",
+    "WetSchap": "Loxia pytyopsittacus",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Kruisbek",
+    "WetSchap": "Loxia curvirostra",
+    "status": "broedvogel"
+  },
+  {
+    "naam": "Witbandkruisbek",
+    "WetSchap": "Loxia leucoptera",
+    "status": "onregelmatige gast"
+  },
+  {
+    "naam": "Putter",
+    "WetSchap": "Carduelis carduelis",
+    "status": "broedvogel"
+  },
+  {
+    "naam": "Citroensijs",
+    "WetSchap": "Carduelis citrinella",
+    "status": "-"
+  },
+  {
+    "naam": "Europese kanarie",
+    "WetSchap": "Serinus serinus",
+    "status": "zeer schaarse broedvogel"
+  },
+  {
+    "naam": "Sijs",
+    "WetSchap": "Spinus spinus",
+    "status": "schaarse broedvogel, doortrekker"
+  },
+  {
+    "naam": "IJsgors",
+    "WetSchap": "Calcarius lapponicus",
+    "status": "schaarse doortrekker, wintergast"
+  },
+  {
+    "naam": "Sneeuwgors",
+    "WetSchap": "Plectrophenax nivalis",
+    "status": "doortrekker, wintergast"
+  },
+  {
+    "naam": "Grauwe gors",
+    "WetSchap": "Emberiza calandra",
+    "status": "zeer schaarse broedvogel"
+  },
+  {
+    "naam": "Geelgors",
+    "WetSchap": "Emberiza citrinella",
+    "status": "broedvogel"
+  },
+  {
+    "naam": "Witkopgors",
+    "WetSchap": "Emberiza leucocephalos",
+    "status": "onregelmatige gast"
+  },
+  {
+    "naam": "Grijze gors",
+    "WetSchap": "Emberiza cia",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Steenortolaan",
+    "WetSchap": "Emberiza buchanani",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Ortolaan",
+    "WetSchap": "Emberiza hortulana",
+    "status": "voormalige broedvogel, doortrekker"
+  },
+  {
+    "naam": "Bruinkeelortolaan",
+    "WetSchap": "Emberiza caesia",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Cirlgors",
+    "WetSchap": "Emberiza cirlus",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Dwerggors",
+    "WetSchap": "Emberiza pusilla",
+    "status": "schaarse doortrekker"
+  },
+  {
+    "naam": "Geelbrauwgors",
+    "WetSchap": "Emberiza chrysophrys",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Bosgors",
+    "WetSchap": "Emberiza rustica",
+    "status": "schaarse doortrekker"
+  },
+  {
+    "naam": "Wilgengors",
+    "WetSchap": "Emberiza aureola",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Rosse gors",
+    "WetSchap": "Emberiza rutila",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Zwartkopgors",
+    "WetSchap": "Emberiza melanocephala",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Bruinkopgors",
+    "WetSchap": "Emberiza bruniceps",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Maskergors",
+    "WetSchap": "Emberiza spodocephala",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Rietgors",
+    "WetSchap": "Emberiza schoeniclus",
+    "status": "broedvogel"
+  },
+  {
+    "naam": "Grijze junco",
+    "WetSchap": "Junco hyemalis",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Witkeelgors",
+    "WetSchap": "Zonotrichia albicollis",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Zanggors",
+    "WetSchap": "Melospiza melodia",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Bobolink",
+    "WetSchap": "Dolichonyx oryzivorus",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Geelkoptroepiaal",
+    "WetSchap": "Xanthocephalus xanthocephalus",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Baltimoretroepiaal",
+    "WetSchap": "Icterus galbula",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Glanstroepiaal",
+    "WetSchap": "Quiscalus quiscula",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Noordse waterlijster",
+    "WetSchap": "Parkesia noveboracensis",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Zwartkopzanger",
+    "WetSchap": "Setophaga striata",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Mirtezanger",
+    "WetSchap": "Setophaga coronata",
+    "status": "dwaalgast"
+  },
+  {
+    "naam": "Indigogors",
+    "WetSchap": "Passerina cyanea",
+    "status": "dwaalgast"
+  }
+]
